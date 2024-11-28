@@ -19,3 +19,5 @@ import { View, Text, SafeAreaView, Button,   TouchableOpacity,
  };
 
  export default ClubHouseScreen;
+
+ const styles = StylesSheet.create({});
